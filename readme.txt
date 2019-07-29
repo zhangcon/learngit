@@ -3,3 +3,4 @@ Git is free software
 111111000000
 222222
 GPL
+Git has a index called stage
