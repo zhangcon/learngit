@@ -4,3 +4,4 @@ Git is free software
 222222
 GPL
 Git has a index called stage
+Git tracks changes
