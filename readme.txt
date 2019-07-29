@@ -6,4 +6,4 @@ GPL
 Git has a index called stage
 Git tracks changes of files
 new new new new
-creating a new branch is quickly
+Creating a new branch is quick and simple
